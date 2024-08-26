@@ -5,6 +5,14 @@ Github is a popular tool because a shared hosting platform for all repositories 
 Version Control help in maintaining project integrity since it allows developers to roll back or revert back to previous changes ensuring errors can be corrected quickly and that the integrity is maintained.
 
 ## Describe the process of setting up a new repository on GitHub. What are the key steps involved, and what are some of the important decisions you need to make during this process?
+i. In the upper-right side of the page witth the + symbl then selecting new repository.
+ii. Providig a suitable and a memorable name for the repository.
+iii. Adding a description to the repository.
+iv. Choosing a repository visibility either private or public.
+v. Initializing the project with the README file for additional information regarding the project.
+vi. Finalizing by clicking creating repository.
+DECISIO TO BE MADE
+I.
 
 ## Discuss the importance of the README file in a GitHub repository. What should be included in a well-written README, and how does it contribute to effective collaboration?
 
