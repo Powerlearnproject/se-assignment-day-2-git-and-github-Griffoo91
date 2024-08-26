@@ -11,8 +11,10 @@ iii. Adding a description to the repository.
 iv. Choosing a repository visibility either private or public.
 v. Initializing the project with the README file for additional information regarding the project.
 vi. Finalizing by clicking creating repository.
-DECISIO TO BE MADE
-I.
+DECISION TO BE MADE
+i.Repository name or description - Overview of the project repository
+ii.Visibility of the repository - either private or public depending on the need of the project and the collaborative task force.
+iii. Initialization of the additional files such as README file and the gitignore files.
 
 ## Discuss the importance of the README file in a GitHub repository. What should be included in a well-written README, and how does it contribute to effective collaboration?
 
