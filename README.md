@@ -56,3 +56,11 @@ Bug Tracking - Ideal for software development teams to report, prioritize, and f
 Plan, assign, and monitor tasks for individual projects or broader initiatives. Example, A project manager creates tasks for various team members, sets milestones, and tracks the overall project progress.
 
 ## Reflect on common challenges and best practices associated with using GitHub for version control. What are some common pitfalls new users might encounter, and what strategies can be employed to overcome them and ensure smooth collaboration?
+C H A L L E N G E S
+i. Code conflicts occur when two or more developers make changes to the same file or code snippet within a repository. When these changes conflict with each other, GitHub is unable to automatically merge them, resulting in a conflict that needs to be resolved manually.
+ii.Inadequate testing practices. Oftentimes, developers will make changes to code without thoroughly testing their modifications, leading to unexpected conflicts when merging their changes with the main branch.
+iii.Without a clear understanding of when and how to commit code changes, developers risk overwriting each other's work and creating conflicts that are difficult to resolve
+B E S T  P R A C T I C E S
+i.Regularly update and pull changes.
+ii.Use branching and merging best practices to avoid the code conflict problems.
+iii. Communicating and collaborating effectively with other developers during the development of the projects.
