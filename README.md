@@ -44,7 +44,8 @@ ii. switching to the new branch created using the git checkout -- name of the br
 iii. Once finishing working on the new branch, one can merge it to the main branch .
 iv. merging the branches first by navigating to the branch the merges are to be performed to eg git chekout main then git merge -- name of the branch --
 ## Explore the role of pull requests in the GitHub workflow. How do they facilitate code review and collaboration, and what are the typical steps involved in creating and merging a pull request?
-
+Pull request is a proposol to merge changes from one branch to another.The contributors can discuss the changes before integrating it to the main codebase therefore it enhances code integrity.It facilitate the code review and collaboration in that it displays the difference between the content in the source branch to the target branch.
+After initializing a pull request, you'll see a review page that shows a high-level overview of the changes between your branch (the compare branch) and the repository's base branch. You can add a summary of the proposed changes, review the changes made by commits, add labels, milestones, and assignees, and @mention individual contributors or teams.
 
 ## Discuss the concept of "forking" a repository on GitHub. How does forking differ from cloning, and what are some scenarios where forking would be particularly useful?
 
