@@ -5,7 +5,7 @@ Github is a popular tool because a shared hosting platform for all repositories 
 Version Control help in maintaining project integrity since it allows developers to roll back or revert back to previous changes ensuring errors can be corrected quickly and that the integrity is maintained.
 
 ## Describe the process of setting up a new repository on GitHub. What are the key steps involved, and what are some of the important decisions you need to make during this process?
-i. In the upper-right side of the page witth the + symbl then selecting new repository.
+i. In the upper-right side of the page with the + symbl then selecting new repository.
 ii. Providig a suitable and a memorable name for the repository.
 iii. Adding a description to the repository.
 iv. Choosing a repository visibility either private or public.
@@ -51,5 +51,8 @@ After initializing a pull request, you'll see a review page that shows a high-le
 Forking is the process of creating a copy of an existing repository from someone else’s GitHub account. The fork is stored in the forker’s own GitHub account. This is done to make changes to the original repository, as well as to propose improvements and ideas to the owner of the original repository. Forking is the process of creating a copy of an existing repository from someone else’s GitHub account, while cloning is the process of downloading a repository to the local machine. Forking can be useful when one want to contribute or a recommendation to a project givig the owner of the project the room to either add or not to nclude the suggestion to the project.
 
 ## Examine the importance of issues and project boards on GitHub. How can they be used to track bugs, manage tasks, and improve project organization? Provide examples of how these tools can enhance collaborative efforts.
+They are versatile items in repository designed to help you plan, discuss and track work. They streamline the process of tracking tasks,collaborating on projects and organazing feedback. 
+Bug Tracking - Ideal for software development teams to report, prioritize, and fix bugs. Example, a developer reports a bug, assigns it to the responsible team member, and tracks the fix through to completion.
+Plan, assign, and monitor tasks for individual projects or broader initiatives. Example, A project manager creates tasks for various team members, sets milestones, and tracks the overall project progress.
 
 ## Reflect on common challenges and best practices associated with using GitHub for version control. What are some common pitfalls new users might encounter, and what strategies can be employed to overcome them and ensure smooth collaboration?
