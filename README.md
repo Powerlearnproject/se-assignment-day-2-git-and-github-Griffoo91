@@ -48,6 +48,7 @@ Pull request is a proposol to merge changes from one branch to another.The contr
 After initializing a pull request, you'll see a review page that shows a high-level overview of the changes between your branch (the compare branch) and the repository's base branch. You can add a summary of the proposed changes, review the changes made by commits, add labels, milestones, and assignees, and @mention individual contributors or teams.
 
 ## Discuss the concept of "forking" a repository on GitHub. How does forking differ from cloning, and what are some scenarios where forking would be particularly useful?
+Forking is the process of creating a copy of an existing repository from someone else’s GitHub account. The fork is stored in the forker’s own GitHub account. This is done to make changes to the original repository, as well as to propose improvements and ideas to the owner of the original repository. Forking is the process of creating a copy of an existing repository from someone else’s GitHub account, while cloning is the process of downloading a repository to the local machine. Forking can be useful when one want to contribute or a recommendation to a project givig the owner of the project the room to either add or not to nclude the suggestion to the project.
 
 ## Examine the importance of issues and project boards on GitHub. How can they be used to track bugs, manage tasks, and improve project organization? Provide examples of how these tools can enhance collaborative efforts.
 
